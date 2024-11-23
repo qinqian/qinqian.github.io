@@ -12,8 +12,8 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          # If your repository depends on submodule, please see: https://github.com/actions/checkout
-          submodules: recursive
+            ## If your repository depends on submodule, please see: https://github.com/actions/checkout
+            #submodules: recursive
       - name: Use Node.js 20
         uses: actions/setup-node@v4
         with:
