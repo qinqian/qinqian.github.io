@@ -5,15 +5,15 @@
 # Site
 title: algorithmic bioinformatics
 subtitle: ''
-description: ''
-keywords:
+description: 'Notes on probabilistic modeling, algorithms, and computational biology.'
+keywords: bioinformatics, algorithms, probabilistic programming, Pyro
 author: Qian Qin
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://qinqian.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
